@@ -1,2 +1,3 @@
 # MYfirstprogram
-This ismy first Git Respository
+This is my first Git Respository.
+Author- Bhuvneshwari
